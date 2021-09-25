@@ -1,34 +1,3 @@
-## 致歉
-由于自己懒以及身体对issuse 解决的不及时。请大家以后提issuse 的时候写清楚 模块名 比如“springboot-SpringSecurity4” 和问题，我会抽时间抓紧解决。
-
-## springboot-SpringSecurity0  
-
-包含两部分代码：
-
-* 第一是  博客 springboot+mybatis＋SpringSecurity 实现用户角色数据库管理   地址：http://blog.csdn.net/u012373815/article/details/54632176
-
-* 第二是  博客 springBoot+springSecurity验证密码MD5加密  地址：http://blog.csdn.net/u012373815/article/details/54927070
-
-## springboot-SpringSecurity1  
-
-*  博客 springBoot+springSecurity 数据库动态管理用户、角色、权限（二）   地址：http://blog.csdn.net/u012373815/article/details/54633046
-
-## springboot-SpringSecurity2
-
-*  博客  springboot+security restful权限控制官方推荐（五）   地址：http://blog.csdn.net/u012373815/article/details/59749385
-
-## springboot-SpringSecurity3
-
-*  博客  springBoot+springSecurity 动态管理Restful风格权限（三） 地址：http://blog.csdn.net/u012373815/article/details/55225079  
-
-## springboot-SpringSecurity4
-* 实战，项目中正在用
-
-## springboot-WebSocket  
-
-包含三部分代码,三部分代码有交合:
-
-* 第一是  博客 spring boot ＋WebSocket 广播式（一）地址：http://blog.csdn.net/u012373815/article/details/54375195  中所示代码
 
 * 第二是  博客 spring boot ＋WebSocket 广播式（二）地址：http://blog.csdn.net/u012373815/article/details/54377937   中所示代码
  
